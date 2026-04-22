@@ -9,6 +9,7 @@ International students in Berlin struggle with German bureaucracy — Anmeldung,
 ## The Solution
 
 A retrieval-augmented generation (RAG) system that:
+
 - Ingests trusted English-language sources about German bureaucracy
 - Uses a local large language model to answer student questions in plain English
 - Cites which source each answer came from, so users can verify
@@ -31,7 +32,6 @@ A retrieval-augmented generation (RAG) system that:
 **Day 3 (April 22):** Ollama installed. Llama 3.2 (3B) model pulled and running locally. First Python-to-LLM call successful via `test_llm.py`. Experimented with and without system prompts to observe behavior differences.
 
 **Key observation — hallucinations:** Model invented a fake government office acronym ("AEMV") in one response, and incorrectly stated the Anmeldung is done at the Ausländerbehörde in another. The correct location is the Bürgeramt. System prompts reduced verbosity but did not fix factual errors. This confirms the core premise of the project: generic LLMs cannot be trusted with specific bureaucratic facts without RAG grounding.
-
 
 Building in public — roadmap and weekly progress updates below.
 
