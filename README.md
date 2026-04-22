@@ -24,8 +24,6 @@ A retrieval-augmented generation (RAG) system that:
 
 ## Status
 
-## Status
-
 **Week 1 (April 2026):** In progress — building foundational setup and first LLM integration.
 
 **Day 1-2 (April 18-19):** Python virtual environment created. FastAPI installed and hello-world endpoint running locally. GitHub repo initialized with .gitignore and README.
