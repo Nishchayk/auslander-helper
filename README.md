@@ -24,7 +24,16 @@ A retrieval-augmented generation (RAG) system that:
 
 ## Status
 
-**Week 1 (April 2026):** Environment setup complete. FastAPI hello-world endpoint running locally. Ollama installed with Llama 3.2.
+## Status
+
+**Week 1 (April 2026):** In progress — building foundational setup and first LLM integration.
+
+**Day 1-2 (April 18-19):** Python virtual environment created. FastAPI installed and hello-world endpoint running locally. GitHub repo initialized with .gitignore and README.
+
+**Day 3 (April 22):** Ollama installed. Llama 3.2 (3B) model pulled and running locally. First Python-to-LLM call successful via `test_llm.py`. Experimented with and without system prompts to observe behavior differences.
+
+**Key observation — hallucinations:** Model invented a fake government office acronym ("AEMV") in one response, and incorrectly stated the Anmeldung is done at the Ausländerbehörde in another. The correct location is the Bürgeramt. System prompts reduced verbosity but did not fix factual errors. This confirms the core premise of the project: generic LLMs cannot be trusted with specific bureaucratic facts without RAG grounding.
+
 
 Building in public — roadmap and weekly progress updates below.
 
