@@ -33,6 +33,8 @@ A retrieval-augmented generation (RAG) system that:
 
 **Week 2 — Session 1 (April 28):** Installed `requests` library. Wrote `fetch_one_page.py` to download a single web page from allaboutberlin.com via HTTPS GET request. Confirmed working: HTTP 200 response, ~150KB of raw HTML returned. Observed that raw HTML is dominated by metadata, scripts, and styling — only a small fraction is actual content. Next session: BeautifulSoup parsing to extract just the readable text.
 
+**Week 2 — Sessions 2+3 (May 3):** Installed BeautifulSoup. Modified `fetch_one_page.py` to parse HTML and extract clean readable text. Added file saving with explicit UTF-8 encoding to `data/` folder. Reduced 155,929 chars of raw HTML to 1,296 chars of clean text — a 99.2% noise reduction. Confirmed correct UTF-8 storage by verifying German characters (ü, ä, ß) render properly in VS Code despite Windows terminal mojibake. Lesson: trust the file, not the terminal display.
+
 **Key observation — hallucinations:** Model invented a fake government office acronym ("AEMV") in one response, and incorrectly stated the Anmeldung is done at the Ausländerbehörde in another. The correct location is the Bürgeramt. System prompts reduced verbosity but did not fix factual errors. This confirms the core premise of the project: generic LLMs cannot be trusted with specific bureaucratic facts without RAG grounding.
 
 Building in public — roadmap and weekly progress updates below.
