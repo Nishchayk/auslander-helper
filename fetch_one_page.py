@@ -1,6 +1,7 @@
 import requests
 from bs4 import BeautifulSoup
-import os 
+import os
+import json
 
 
 os.makedirs("data",exist_ok=True)

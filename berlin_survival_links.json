@@ -1,0 +1,213 @@
+{
+    "housing_and_essentials": [
+        {
+            "title": "How to find an apartment in Berlin",
+            "url": "https://allaboutberlin.com/guides/find-a-flat-in-berlin",
+            "tags": [
+                "housing",
+                "newcomer"
+            ]
+        },
+        {
+            "title": "Anmeldung: Registering your address",
+            "url": "https://allaboutberlin.com/guides/berlin-anmeldung",
+            "tags": [
+                "registration",
+                "legal"
+            ]
+        },
+        {
+            "title": "How to get a B\u00fcrgeramt appointment",
+            "url": "https://allaboutberlin.com/guides/berlin-burgeramt-appointment",
+            "tags": [
+                "appointments",
+                "bureaucracy"
+            ]
+        },
+        {
+            "title": "How to get a SCHUFA certificate",
+            "url": "https://allaboutberlin.com/guides/get-a-schufa-berlin",
+            "tags": [
+                "credit",
+                "housing"
+            ]
+        },
+        {
+            "title": "Understanding your electricity bill",
+            "url": "https://allaboutberlin.com/guides/electricity-germany",
+            "tags": [
+                "utilities"
+            ]
+        },
+        {
+            "title": "How to pay the Rundfunkbeitrag (TV Tax)",
+            "url": "https://allaboutberlin.com/guides/gez-arbeitgeber-bestatigung",
+            "tags": [
+                "tax",
+                "essentials"
+            ]
+        },
+        {
+            "title": "Abmeldung: Moving out of Germany",
+            "url": "https://allaboutberlin.com/guides/abmeldung-germany",
+            "tags": [
+                "leaving"
+            ]
+        }
+    ],
+    "work_money_taxes": [
+        {
+            "title": "How to find a job in Berlin",
+            "url": "https://allaboutberlin.com/guides/find-a-job-in-berlin",
+            "tags": [
+                "work",
+                "career"
+            ]
+        },
+        {
+            "title": "Best German banks for expats",
+            "url": "https://allaboutberlin.com/guides/best-germany-bank-account",
+            "tags": [
+                "finance",
+                "banking"
+            ]
+        },
+        {
+            "title": "Understanding the Tax ID",
+            "url": "https://allaboutberlin.com/guides/german-tax-id-steueridentifikationsnummer",
+            "tags": [
+                "taxes",
+                "legal"
+            ]
+        },
+        {
+            "title": "Best tools to file your German tax return",
+            "url": "https://allaboutberlin.com/guides/german-tax-software-expats",
+            "tags": [
+                "taxes",
+                "software"
+            ]
+        },
+        {
+            "title": "How to start a freelance business",
+            "url": "https://allaboutberlin.com/guides/start-a-business-in-germany",
+            "tags": [
+                "freelance",
+                "business"
+            ]
+        },
+        {
+            "title": "Guide to Private Liability Insurance",
+            "url": "https://allaboutberlin.com/guides/private-liability-insurance-germany",
+            "tags": [
+                "insurance",
+                "safety"
+            ]
+        }
+    ],
+    "immigration_and_visas": [
+        {
+            "title": "How to get a German residence permit",
+            "url": "https://allaboutberlin.com/guides/germany-residence-permit",
+            "tags": [
+                "visa",
+                "immigration"
+            ]
+        },
+        {
+            "title": "EU Blue Card requirements & process",
+            "url": "https://allaboutberlin.com/guides/german-blue-card",
+            "tags": [
+                "visa",
+                "work"
+            ]
+        },
+        {
+            "title": "How to apply for the freelance visa",
+            "url": "https://allaboutberlin.com/guides/how-to-get-a-german-freelance-visa",
+            "tags": [
+                "visa",
+                "freelance"
+            ]
+        },
+        {
+            "title": "How the Berlin Immigration Office (LEA) works",
+            "url": "https://allaboutberlin.com/guides/berlin-immigration-office",
+            "tags": [
+                "bureaucracy",
+                "immigration"
+            ]
+        }
+    ],
+    "health_and_lifestyle": [
+        {
+            "title": "Public vs. Private health insurance",
+            "url": "https://allaboutberlin.com/guides/german-health-insurance",
+            "tags": [
+                "health",
+                "insurance"
+            ]
+        },
+        {
+            "title": "Health insurance for foreign students",
+            "url": "https://allaboutberlin.com/guides/german-health-insurance-for-students",
+            "tags": [
+                "students",
+                "health"
+            ]
+        },
+        {
+            "title": "List of English-speaking GPs in Berlin",
+            "url": "https://allaboutberlin.com/guides/english-speaking-doctors-berlin",
+            "tags": [
+                "health",
+                "doctors"
+            ]
+        },
+        {
+            "title": "English-speaking psychotherapists",
+            "url": "https://allaboutberlin.com/guides/english-speaking-psychotherapists-berlin",
+            "tags": [
+                "health",
+                "mental-health"
+            ]
+        },
+        {
+            "title": "Public Transit: BVG, S-Bahn, and Deutschland Ticket",
+            "url": "https://allaboutberlin.com/guides/public-transit-berlin-vbb",
+            "tags": [
+                "transport",
+                "daily-life"
+            ]
+        },
+        {
+            "title": "The rules of recycling and Pfand",
+            "url": "https://allaboutberlin.com/guides/recycling-in-germany",
+            "tags": [
+                "lifestyle",
+                "culture"
+            ]
+        }
+    ],
+    "tools": [
+        {
+            "title": "Netto Salary Calculator",
+            "url": "https://allaboutberlin.com/tools/tax-calculator",
+            "type": "tool"
+        },
+        {
+            "title": "Visa Selector Tool",
+            "url": "https://allaboutberlin.com/tools/visa-selector",
+            "type": "tool"
+        },
+        {
+            "title": "Berlin Transit Map",
+            "url": "https://allaboutberlin.com/tools/berlin-transit-map",
+            "type": "tool"
+        }
+    ],
+    "meta": {
+        "source": "allaboutberlin.com",
+        "description": "Curated collection of essential links for newcomers, students, and residents in Berlin."
+    }
+}
